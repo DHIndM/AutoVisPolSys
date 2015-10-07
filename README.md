@@ -1,5 +1,4 @@
-# AutoVisPolSys
-## Automatic visual system for detection human.
+# Automatic visual system for detection human.
 
 #### Seznam zásuvných modulů:
 	* SimpleCV *
